@@ -1,0 +1,21 @@
+Category,Count,Analysis
+movie,6131,Movies vs TV Shows
+tv show,2676,Movies vs TV Shows
+united states,3690,Top 2 Countries
+india,1046,Top 2 Countries
+east germany,1,Bottom 2 Countries
+montenegro,1,Bottom 2 Countries
+2018,1147,Top 3 most content produced year
+2017,1032,Top 3 most content produced year
+2019,1030,Top 3 most content produced year
+1959,1,Bottom 3 most content produced year
+1966,1,Bottom 3 most content produced year
+1947,1,Bottom 3 most content produced year
+count,8807,stats collected by release year
+mean,2014.180198,stats collected by release year
+std,8.819312131,stats collected by release year
+min,1925,stats collected by release year
+25%,2013,stats collected by release year
+50%,2017,stats collected by release year
+75%,2019,stats collected by release year
+max,2021,stats collected by release year
