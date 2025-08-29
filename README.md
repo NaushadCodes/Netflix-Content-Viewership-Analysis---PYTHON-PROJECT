@@ -3,11 +3,11 @@
 This project analyzes the Netflix Titles Dataset (sourced from Kaggle) to uncover insights about Netflix’s content library.
 The workflow is structured into three key steps:
 
-Exploring the dataset
+1) Exploring the dataset
 
-Cleaning & preprocessing
+2) Cleaning & preprocessing
 
-Performing analysis to extract meaningful insights
+3) Performing analysis to extract meaningful insights
 
 The project was developed in Visual Studio Code using the Jupyter Notebook extension.
 
@@ -20,6 +20,7 @@ Entries: 8,807 titles
 Features: 12 columns including show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description.
 
 ⚙️ Steps Followed
+
 🔹 1. Exploring Dataset
 
 Viewed first and last records with .head() and .tail().
