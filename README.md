@@ -13,7 +13,7 @@ The project was developed in Visual Studio Code using the Jupyter Notebook exten
 
 📂 Dataset
 
-Source: Netflix Titles Dataset - Kaggle
+Source: Netflix Titles Dataset - <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows" target="_blank"><b>Kaggle</b></a>.
 
 Entries: 8,807 titles
 
