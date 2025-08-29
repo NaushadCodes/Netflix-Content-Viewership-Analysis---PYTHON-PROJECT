@@ -1,4 +1,4 @@
-🎬 Netflix Content Viewership Analysis (Python Project)
+# 🎬 Netflix Content Viewership Analysis (Python Project)
 
 This project analyzes the Netflix Titles Dataset (sourced from Kaggle) to uncover insights about Netflix’s content library.
 The workflow is structured into three key steps:
