@@ -98,5 +98,3 @@ The combined analysis was saved in netflix_analysis_csv_file.csv.
 Python (Pandas, NumPy)
 
 Jupyter Notebook (VS Code Extension)
-
-Matplotlib / Seaborn (for visualizations, optional)
